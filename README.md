@@ -8,7 +8,7 @@ A respository of files containing travel distances between UK Lower layer Super 
 
 Contributors names and contact info
 
-ex. Michael Ng
+Michael Ng
 
 ## Source files  
 
